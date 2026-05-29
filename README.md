@@ -29,4 +29,4 @@ Python, Pandas, Matplotlib, Jupyter Notebook, Gitbash, Powerpoint
 
 
 ## Video Link: 
-
+https://yearuptemp-my.sharepoint.com/personal/dsharma_yearup_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdsharma_yearup_org%2FDocuments%2FData+Analytics_Class+7%2FCapstone+2+-+Self+Recorded%2FCampusano_Capstone_2_PP.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.42688020-325e-47b7-a2f0-5f4ddc93c917 
